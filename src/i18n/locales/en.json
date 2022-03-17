@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "name": "V2EX",
+    "intro": "This project used React Native to build a V2EX mobile client application. The main goal was to build a React Native rapid development scaffold."
+  },
+  "common": {
+    "help": "Help",
+    "replies": "Replies",
+    "repoURL": "Source Link",
+    "tip": "Tip",
+    "language": "Language",
+    "auth": "Auth",
+    "logout": "Logout",
+    "login": "Log In",
+    "search": "Search",
+    "setting": "Setting",
+    "theme": "Theme",
+    "feedback": "Feedback",
+    "about": "About",
+    "version": "Version",
+    "Build": "Build",
+    "darkColor": "Dark",
+    "lightColor": "Light",
+    "loading": "Loading...",
+    "contact": "contact",
+    "replay": "replay",
+    "topic": "Topic",
+    "count": "Count",
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "select": "Select",
+    "save": "Save",
+    "update": "Update",
+    "apply": "Apply",
+    "next": "Next",
+    "back": "Back",
+    "total": "Total",
+    "email": "Email",
+    "password": "Password",
+    "min": "Min.",
+    "max": "Max.",
+    "telephone": "Telephone",
+    "sort": "Sort",
+    "filter": "Filter",
+    "token": "Token",
+    "github": "Github",
+    "twitter": "Twitter",
+    "facebook": "Facebook",
+    "google": "Google"
+  },
+  "theme": {
+    "light": "Light Theme",
+    "dark": "Dark Theme",
+    "auto": "Auto Theme"
+  },
+  "router": {
+    "HomeTabs": "Home",
+    "Node": "Node",
+    "Notification": "Notification",
+    "Setting": "Setting",
+    "My": "My",
+    "SignIn": "Sign In",
+    "LatestTopics": "Latest",
+    "HotTopics": "Hot",
+    "NodeTopics": "Topics",
+    "TopicDetail": "Topic",
+    "FollowPeople": "Follow",
+    "LikeTopics": "Like",
+    "Language": "Language Setting",
+    "About": "About",
+    "Feedback": "Feedback",
+    "Theme": "Theme Setting",
+    "Search": "Search",
+    "Profile": "Profile",
+    "Readed": "Readed",
+    "WebLink": "Web Viewer"
+  },
+  "placeholder": {
+    "token": "Type token here..",
+    "search": "Type here...",
+    "message": "Type here...",
+    "empty": "Empty."
+  },
+  "button": {
+    "followPeople": "Follow",
+    "likeTopics": "Like",
+    "readed": "Readed",
+    "clickToLogin": "Click here to login",
+    "oneceAgain": "Onece Again"
+  },
+  "link": {
+    "getToken": "Get token Here"
+  },
+  "tips": {
+    "authSuccess": "Auth Success.",
+    "loadSuccess": "Load Success.",
+    "login": "experience more features",
+    "noMore": "Have no more data."
+  },
+  "confirm": {
+    "logout": "Are you sure to logout?"
+  },
+  "errors": {
+    "error": "Error",
+    "noFound": "No found",
+    "noTopics": "No topics."
+  }
+}

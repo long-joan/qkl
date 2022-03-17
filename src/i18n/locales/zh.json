@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "name": "V2EX",
+    "intro": "这个项目使用了 React Native 构建了一个 V2EX 移动客户端应用。主要目的是为了构建一个 React Native 快速开发脚手架。"
+  },
+  "common": {
+    "help": "帮助",
+    "replies": "回复",
+    "repoURL": "开源地址",
+    "tip": "提示",
+    "language": "语言",
+    "auth": "授权",
+    "logout": "登出",
+    "login": "登陆",
+    "search": "搜索",
+    "setting": "设置",
+    "theme": "主题",
+    "feedback": "反馈",
+    "about": "关于",
+    "version": "版本",
+    "Build": "Build",
+    "darkColor": "黑色",
+    "lightColor": "亮色",
+    "loading": "加载中...",
+    "contact": "contact",
+    "replay": "回复",
+    "topic": "主题",
+    "count": "数量",
+    "ok": "确定",
+    "cancel": "取消",
+    "continue": "继续",
+    "select": "选择",
+    "save": "保存",
+    "update": "Update",
+    "apply": "Apply",
+    "next": "Next",
+    "back": "返回",
+    "total": "Total",
+    "email": "邮件",
+    "password": "密码",
+    "min": "Min.",
+    "max": "Max.",
+    "telephone": "电话",
+    "sort": "排序",
+    "filter": "Filter",
+    "token": "令牌",
+    "github": "Github",
+    "twitter": "推特",
+    "facebook": "脸书",
+    "google": "谷歌"
+  },
+  "theme": {
+    "auto": "自动切换",
+    "light": "浅色主题",
+    "dark": "深色主题"
+  },
+  "router": {
+    "HomeTabs": "主页",
+    "Node": "节点",
+    "Notification": "通知",
+    "Setting": "设置",
+    "My": "我的",
+    "SignIn": "登入",
+    "LatestTopics": "最新",
+    "HotTopics": "热门",
+    "NodeTopics": "主题",
+    "TopicDetail": "主题详情",
+    "FollowPeople": "关注的人",
+    "LikeTopics": "收藏主题",
+    "Language": "语言设置",
+    "About": "关于我们",
+    "Feedback": "建议与反馈",
+    "Theme": "主题设置",
+    "Search": "搜索",
+    "Profile": "个人资料",
+    "Readed": "已读主题",
+    "WebLink": "查看网页"
+  },
+  "placeholder": {
+    "token": "请输入登陆令牌",
+    "search": "输入关键字...",
+    "message": "写点什么...",
+    "empty": "无内容."
+  },
+  "button": {
+    "followPeople": "关注的人",
+    "likeTopics": "收藏主题",
+    "readed": "已读主题",
+    "clickToLogin": "点击此处授权登陆",
+    "oneceAgain": "再试试"
+  },
+  "link": {
+    "getToken": "从 V2ex 官方获取令牌"
+  },
+  "tips": {
+    "authSuccess": "授权成功.",
+    "loadSuccess": "加载成功.",
+    "login": "登陆 V2EX，体验更多功能",
+    "noMore": "没有更多内容了"
+  },
+  "confirm": {
+    "logout": "确定登出吗？"
+  },
+  "errors": {
+    "error": "错误",
+    "noFound": "未找到相关内容",
+    "noTopics": "暂时没有找到相关主题"
+  }
+}
