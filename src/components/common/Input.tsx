@@ -1,5 +1,12 @@
 import React from 'react'
-import { TextInput, View, ViewPropTypes, TextInputProps as NativeTextInputProps, ViewStyle, TextStyle } from 'react-native'
+import {
+  TextInput,
+  View,
+  ViewPropTypes,
+  TextInputProps as NativeTextInputProps,
+  ViewStyle,
+  TextStyle
+} from 'react-native'
 import { Text } from './Text'
 import { useTheme } from '@src/theme'
 import { ITheme } from '@src/types'

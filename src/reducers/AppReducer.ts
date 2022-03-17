@@ -1,4 +1,13 @@
-import { APP_INIT, APP_INIT_ERROR, APP_SITE_INFO, APP_LOGOUT, APP_LATEST_VERSION, APP_SITE_STAT, Action, IState } from '../types'
+import {
+  APP_INIT,
+  APP_INIT_ERROR,
+  APP_SITE_INFO,
+  APP_LOGOUT,
+  APP_LATEST_VERSION,
+  APP_SITE_STAT,
+  Action,
+  IState
+} from '../types'
 import { aboutUs } from '@src/config/v2ex'
 
 const INITIAL_STATE: IState.AppState = {

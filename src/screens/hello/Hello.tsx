@@ -1,6 +1,12 @@
 import React from 'react'
 import { ScrollView, StatusBar, StyleSheet, Text, useColorScheme, SafeAreaView, Button, View } from 'react-native'
-import { Colors, DebugInstructions, Header, LearnMoreLinks, ReloadInstructions } from 'react-native/Libraries/NewAppScreen'
+import {
+  Colors,
+  DebugInstructions,
+  Header,
+  LearnMoreLinks,
+  ReloadInstructions
+} from 'react-native/Libraries/NewAppScreen'
 import { translate } from '@src/i18n'
 import NavigationService from '../../navigation/NavigationService'
 

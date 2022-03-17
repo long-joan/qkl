@@ -1,4 +1,13 @@
-import { APP_AUTH_SUCCESS, FEEDBACKING, FEEDBACK_DONE, Action, IState, APP_AUTH_LOADING, APP_AUTH_ERROR, APP_LOGOUT } from '../types'
+import {
+  APP_AUTH_SUCCESS,
+  FEEDBACKING,
+  FEEDBACK_DONE,
+  Action,
+  IState,
+  APP_AUTH_LOADING,
+  APP_AUTH_ERROR,
+  APP_LOGOUT
+} from '../types'
 import { translate } from '@src/i18n'
 
 const INITIAL_STATE: IState.UIState = {

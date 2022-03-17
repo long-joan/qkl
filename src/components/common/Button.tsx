@@ -1,5 +1,11 @@
 import React from 'react'
-import { TouchableOpacity, ViewPropTypes, TouchableOpacityProps as NativeTouchableOpacityProps, ViewStyle, TextStyle } from 'react-native'
+import {
+  TouchableOpacity,
+  ViewPropTypes,
+  TouchableOpacityProps as NativeTouchableOpacityProps,
+  ViewStyle,
+  TextStyle
+} from 'react-native'
 import { Text } from './Text'
 import { useTheme, ITheme } from '@src/theme'
 
